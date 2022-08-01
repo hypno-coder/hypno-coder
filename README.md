@@ -58,7 +58,7 @@
 
 ###
 
-<a align="right" href='https://klavogonki.ru/u/#/631124/'>
+<a align="center" href='https://klavogonki.ru/u/#/631124/'>
           <img border='0' src='https://klavogonki.ru/storage/userbar/ub2-631124.gif' title='Клавогонки.ру'>
         </a>
 
