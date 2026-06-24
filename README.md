@@ -1,8 +1,5 @@
 <h1 align="center">Hello, my name is Arthur and I am a  Developer !</h1>
 
-###
-
-<img align="left" height="150" src="https://i.ibb.co/p37bpnb/IMG-4708.png"  />
 
 ###
 
