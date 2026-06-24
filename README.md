@@ -1,12 +1,8 @@
-<h1 align="center">Hello, my name is Arthur and I am a Web Developer !</h1>
+<h1 align="center">Hello, my name is Arthur and I am a  Developer !</h1>
 
 ###
 
 <img align="left" height="150" src="https://i.ibb.co/p37bpnb/IMG-4708.png"  />
-
-###
-
-<h3 align="left">I started, like many others, with Python, writing parsers and various kinds of scripts, then I studied django and got a job as a back-end developer, after a while my friends offered me to try myself in the front-end, I agreed and after 3 months I received an offer for JS React, in the process I I also learned TypeScript. But I never stop and learn new technologies, I recently learned Next.js and now I develop my full stack skills by mastering the T3 stack Next.js/PrismaORM/tRPC.</h3>
 
 ###
 
